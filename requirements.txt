@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+Sastrawi
+nltk
+rapidfuzz
+deep-translator
+matplotlib
+seaborn
+wordcloud
+tqdm
